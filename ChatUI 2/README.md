@@ -1,6 +1,6 @@
 # ChatUI
 
-A new Flutter project created with FlutLab - https://flutlab.io
+FlutLabで構築されました - https://flutlab.io
 
 ## Getting Started
 
